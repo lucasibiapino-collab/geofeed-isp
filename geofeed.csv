@@ -1,6 +1,9 @@
 # ip_prefix,country_code,region_code,city,postal_code
+2804:AD8:8700::/41,BR,BR-PE,Araripina,
+2804:AD8:8284::/48,BR,BR-PE,Araripina,
 2804:ad8:3f80::/41,BR,BR-PI,Paulistana,
-179.191.56.0/24,BR,BR-PI,Picos,
+179.191.56.0/24,BR,BR-PE,Araripina,
+179.191.59.0/24,BR,BR-PE,Araripina,
 177.66.116.0/23,BR,BR-PI,Picos,
 179.191.57.0/24,BR,BR-PI,Picos,
 2804:ad8::/34,BR,BR-PI,Picos,
